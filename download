@@ -1,0 +1,12 @@
+# data (do NOT commit raw datasets per course rules)
+data/seg_train/
+data/seg_test/
+data/seg_pred/
+data/*.zip
+# python
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+# saved model weights (large)
+*.pth
