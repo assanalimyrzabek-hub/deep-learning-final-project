@@ -22,12 +22,12 @@
 ## Results so far (fill from results/comparison_table.md)
 | Model | Test accuracy | Macro F1 |
 | ----- | ------------- | -------- |
-| Baseline CNN (no augmentation)   | ____ % | ____ |
-| Baseline CNN + augmentation      | ____ % | ____ |
-| ResNet-18 (transfer learning)    | ____ % | ____ |
+| Baseline CNN (no augmentation)   | 84.6 % | 0.849 |
+| Baseline CNN + augmentation      | 81.8 % | 0.820 |
+| ResNet-18 (transfer learning)    | 92.7 % | 0.928 |
 
 - Augmentation effect: train/val gap (overfitting) ____ (increased / decreased).
-- Best model: ____ . Why it wins: it reuses features learned on ImageNet (1.2M images),
+- Best model: ResNet-18 . Why it wins: it reuses features learned on ImageNet (1.2M images),
   so it needs fewer epochs and generalizes better than a small CNN trained from scratch.
 
 ## Problems / blockers
