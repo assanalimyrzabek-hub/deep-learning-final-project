@@ -15,7 +15,10 @@
 - EDA only: counted images per class, inspected a sample grid of images.
 
 ## Results so far
-- Dataset loads correctly; classes are roughly balanced (to be filled with real numbers after running EDA).
+- Dataset loads correctly. Class distribution in seg_train:
+  buildings: 2191, forest: 2271, glacier: 2404, mountain: 2512, sea: 2274, street: 2382
+- Classes are roughly balanced (each ~2000–2500 images), so no special class-imbalance handling is needed.
+- Sample grid saved to results/class_samples.png.
 
 ## Problems / blockers
 - None yet. Need a GPU for Week 2 (will use Google Colab).
