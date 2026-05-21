@@ -2,7 +2,7 @@
 
 **Course:** Deep Learning, Narxoz University (Spring 2026)
 **Target level:** C+ (baseline + improvements / comparison)
-**Author:** <ВАШЕ ИМЯ>
+**Author:** Myrzabek Assanali
 
 ---
 
