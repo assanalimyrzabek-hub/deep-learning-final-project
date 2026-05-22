@@ -2,8 +2,8 @@
 
 **Course:** Deep Learning, Narxoz University (Spring 2026)
 **Target level:** C+
-**Author:** <ВАШЕ ИМЯ>
-**Repository:** <ССЫЛКА НА ВАШ GITHUB>
+**Author:** <Myrzabek Assanali>
+**Repository:** <https://github.com/assanalimyrzabek-hub/deep-learning-final-project>
 
 ---
 
