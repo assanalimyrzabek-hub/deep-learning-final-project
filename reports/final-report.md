@@ -2,7 +2,7 @@
 
 **Course:** Deep Learning, Narxoz University (Spring 2026)
 **Target level:** C+
-**Author:** <Myrzabek Assanali>
+**Author:** Myrzabek Assanali
 **Repository:** <https://github.com/assanalimyrzabek-hub/deep-learning-final-project>
 
 ---
